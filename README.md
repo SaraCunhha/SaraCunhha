@@ -56,8 +56,7 @@
 
 
 ###
-
-<p align="left">Be free to contribuate, and pointed where I can be better.</p>
+<p align="center" style="font-size: 24px;">Be free to contribute, and point out where I can be better.</p>
 
 ###
 
