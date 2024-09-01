@@ -43,13 +43,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#C36DD3&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-###
+
 <br clear="both">
-###
+
+
 <p style="text-align: center; font-size: 24px; margin: 20px 0;">Be free to contribute, and point out where I can be better.</p>
 
-
-###
 
 <p align="left"></p>
 
