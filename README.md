@@ -47,12 +47,10 @@
 
 
 
-
 <div>
-<a href="https://giphy.com/gifs/hkqefnFjn2MWVl6xvq">
-<img src="https://giphy.com/embed/hkqefnFjn2MWVl6xvq" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>  
-</a>
+  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="480" height="480" alt="Coding GIF" />
 </div>
+
 ###
 
 <br clear="both">
