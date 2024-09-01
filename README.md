@@ -47,7 +47,7 @@
 
 
 
-<div>
+<div>[
   <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="480" height="480" alt="Coding GIF" />
 </div>
 
