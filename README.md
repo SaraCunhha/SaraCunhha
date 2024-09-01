@@ -47,7 +47,7 @@
 <br clear="both">
 
 
-<p style="text-align: center; font-size: 24px; margin: 20px 0;">Be free to contribute, and point out where I can be better.</p>
+<p style="text-align: center; font-size: 24px; margin: 60px 0;">Be free to contribute, and point out where I can be better.</p>
 
 
 <p align="left"></p>
