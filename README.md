@@ -45,10 +45,9 @@
 </div>
 
 
-
-
-<div>[
-  <img src="https://media.giphy.com/media/hkqefnFjn2MWVl6xvq/giphy.gif" width="480" height="480" alt="Coding GIF" />
+<div align="center">
+  <!-- Adiciona o GIF de Pong -->
+  <img src="https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif" width="480" height="269" alt="Pong GIF" />
 </div>
 
 ###
@@ -64,4 +63,3 @@
 
 <p align="left"></p>
 
-###
