@@ -2,6 +2,8 @@
 
 <h2 align="center">Hi ⚡! My name is Sara, welcome to my world .  👾</h2>
 
+<p align="center">Be free to contribute, and point out where I can be better.</p>
+
 ###
 
 <br clear="both">
@@ -45,10 +47,4 @@
 </div>
 
 <br clear="both">
-
-
-<p style="text-align: center; font-size: 24px; margin: 60px 0;">Be free to contribute, and point out where I can be better.</p>
-
-
-<p align="center"></p>
 
