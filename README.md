@@ -43,20 +43,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#C36DD3&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-
-<div align="center">
-  <!-- Adiciona o GIF de Pong -->
-  <img src="https://media.giphy.com/media/aTGwuEFyg6d8c/giphy.gif" width="480" height="269" alt="Pong GIF" />
-</div>
-
 ###
-
 <br clear="both">
-
-
 ###
-<p align="center" style="font-size: 24px;">Be free to contribute, and point out where I can be better.</p>
+<p style="text-align: center; font-size: 24px; margin: 20px 0;">Be free to contribute, and point out where I can be better.</p>
+
 
 ###
 
